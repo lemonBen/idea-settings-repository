@@ -23,6 +23,14 @@
     </option>
     <option name="projectNameModuleNameToSettingsMap">
       <map>
+        <entry key="demo_core">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="core" />
+              <option name="testDirectoryRoot" value="example\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="demo_example">
           <value>
             <ModuleSettings>
