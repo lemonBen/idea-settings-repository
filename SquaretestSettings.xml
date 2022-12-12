@@ -19,6 +19,21 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="psaf-api-nev">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="psaf-api-nev" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="psaf-api-nev.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-psaf-api-nev.java" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="projectNameModuleNameToSettingsMap">
@@ -44,6 +59,14 @@
             <ModuleSettings>
               <option name="moduleName" value="my-es" />
               <option name="testDirectoryRoot" value="my-es\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="psaf-api-nev_psaf-nev-job">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="psaf-nev-job" />
+              <option name="testDirectoryRoot" value="psaf-nev-job\src\test\java" />
             </ModuleSettings>
           </value>
         </entry>
