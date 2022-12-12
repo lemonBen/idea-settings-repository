@@ -62,6 +62,14 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="psaf-api-nev_psaf-nev-api">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="psaf-nev-api" />
+              <option name="testDirectoryRoot" value="psaf-nev-api\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="psaf-api-nev_psaf-nev-job">
           <value>
             <ModuleSettings>
