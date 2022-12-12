@@ -31,6 +31,14 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="demo_my-es">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="my-es" />
+              <option name="testDirectoryRoot" value="my-es\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="collectUsageStats" value="true" />
