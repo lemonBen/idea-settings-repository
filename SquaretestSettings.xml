@@ -86,6 +86,14 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="psaf-api-nev_psaf-nev-wx">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="psaf-nev-wx" />
+              <option name="testDirectoryRoot" value="psaf-nev-wx\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="collectUsageStats" value="true" />
