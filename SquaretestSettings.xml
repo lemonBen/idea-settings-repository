@@ -62,6 +62,14 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="psaf-api-nev_cloud">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="cloud" />
+              <option name="testDirectoryRoot" value="cloud\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="psaf-api-nev_core">
           <value>
             <ModuleSettings>
