@@ -34,6 +34,22 @@
             </ProjectSettings>
           </value>
         </entry>
+        <entry key="psaf-nev-test">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="psaf-nev-test" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="projectNameModuleNameToSettingsMap">
@@ -99,6 +115,14 @@
             <ModuleSettings>
               <option name="moduleName" value="psaf-nev-wx" />
               <option name="testDirectoryRoot" value="psaf-nev-wx\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="psaf-nev-test_psaf-nev-api">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="psaf-nev-api" />
+              <option name="testDirectoryRoot" value="psaf-nev-api\src\test\java" />
             </ModuleSettings>
           </value>
         </entry>
