@@ -118,6 +118,14 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="psaf-nev-test_core">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="core" />
+              <option name="testDirectoryRoot" value="core\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="psaf-nev-test_psaf-nev-api">
           <value>
             <ModuleSettings>
