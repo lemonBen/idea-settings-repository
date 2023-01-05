@@ -33,6 +33,7 @@
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="XDebugger.CopyWatch" />
