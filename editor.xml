@@ -9,4 +9,14 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Angular2Html" />
+        <option value="Groovy" />
+        <option value="kotlin" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
 </application>
