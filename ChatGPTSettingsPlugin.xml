@@ -1,0 +1,6 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="customizeUrl" value="http://server.wyfan.cn/gpt/chat?key=99813721&amp;content=" />
+    <option name="urlType" value="CUSTOMIZE" />
+  </component>
+</application>
