@@ -2,5 +2,12 @@
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
     <option name="customizeUrl" value="http://server.wyfan.cn/gpt/chat?key=99813721&amp;content=" />
     <option name="urlType" value="CUSTOMIZE" />
+    <option name="readTimeout" value="5000000" />
+    <option name="connectionTimeout" value="5000000" />
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="HTTP" />
+    <option name="proxyHostname" value="clash.wyfan.cn" />
+    <option name="proxyPort" value="7890" />
+    <option name="assistantApiKey" value="sm-SM260N0BOZgK7IcPudEFT3BlbkFJ3LzOD40DPUQiRtQ534pL" />
   </component>
 </application>
