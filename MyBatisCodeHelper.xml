@@ -3,7 +3,7 @@
     <option name="profile">
       <Profile>
         <option name="alreadyTrail" value="true" />
-        <option name="maxMeetContext" value="3" />
+        <option name="maxMeetContext" value="11" />
         <option name="trailKey" value="freef82c735e089449c8801f9ee40017f85b" />
         <option name="valid" value="true" />
       </Profile>
