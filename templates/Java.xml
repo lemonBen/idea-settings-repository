@@ -1,0 +1,9 @@
+<templateSet group="Java">
+  <template name="ts" value="@date $DATE$ $TIME$" description="current timestamp" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time(&quot;HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
